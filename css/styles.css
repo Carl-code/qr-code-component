@@ -43,9 +43,12 @@ body{
 .text-container h3{
     padding: 10px 10px;
     text-align: center;
+    color: var(--Slate900);
+    font-weight: 700;
 }
 .text-container p{
     font-size: 15px;
     text-align: center;
     margin-top: 10px;
+    color: var(--Slate500);
 }
